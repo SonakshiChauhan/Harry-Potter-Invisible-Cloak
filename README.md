@@ -8,7 +8,7 @@ We have tried to create Harry Potter's invisible cloak usinh Color Detection and
 ->Step #1: Detect the presence of a colored object using computer vision techniques.
 ->Step #2: Create a mask by capturing frame
 ->Step #3: Apply the create mask of background on the detected object.
-The outcome is a sshown in the video above.
+The outcome is a shown in the video above.
 
 **Completed By Sonakshi Chauhan**
 
